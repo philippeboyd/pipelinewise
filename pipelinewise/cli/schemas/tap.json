@@ -202,6 +202,7 @@
       "enum": [
         "tap-postgres",
         "tap-mongodb",
+        "tap-mssql",
         "tap-mysql",
         "tap-oracle",
         "tap-adwords",

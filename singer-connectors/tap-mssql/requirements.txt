@@ -1,0 +1,1 @@
+https://github.com/wintersrd/pipelinewise-tap-mssql.git
